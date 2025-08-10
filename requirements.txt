@@ -1,0 +1,8 @@
+streamlit==1.36.0
+requests>=2.31.0
+tldextract>=5.1.2
+beautifulsoup4>=4.12.3
+dnspython>=2.6.1
+python-whois>=0.8.0
+phonenumbers>=8.13.39
+pandas>=2.2.2
